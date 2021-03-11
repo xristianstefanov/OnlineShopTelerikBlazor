@@ -3147,14 +3147,14 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\xrist\\source\\repos\\OnlineShopTelerikBlazor\\OnlineShopTelerikBlazor.csproj",
+      "projectUniqueName": "C:\\Users\\xrist\\source\\repos\\OnlineShopTelerikBlazorPro\\OnlineShopTelerikBlazor\\OnlineShopTelerikBlazor.csproj",
       "projectName": "OnlineShopTelerikBlazor",
-      "projectPath": "C:\\Users\\xrist\\source\\repos\\OnlineShopTelerikBlazor\\OnlineShopTelerikBlazor.csproj",
+      "projectPath": "C:\\Users\\xrist\\source\\repos\\OnlineShopTelerikBlazorPro\\OnlineShopTelerikBlazor\\OnlineShopTelerikBlazor.csproj",
       "packagesPath": "C:\\Users\\xrist\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\xrist\\source\\repos\\OnlineShopTelerikBlazor\\obj\\",
+      "outputPath": "C:\\Users\\xrist\\source\\repos\\OnlineShopTelerikBlazorPro\\OnlineShopTelerikBlazor\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\xrist\\source\\repos\\OnlineShopTelerikBlazor\\NuGet.Config",
+        "C:\\Users\\xrist\\source\\repos\\OnlineShopTelerikBlazorPro\\OnlineShopTelerikBlazor\\NuGet.Config",
         "C:\\Users\\xrist\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

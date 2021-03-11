@@ -10,7 +10,7 @@
     @if (currProduct.UnitInStock == 0)
     {
         <div class="k-card" style="display: inline-block;padding: 7px;">
-            <img style="width: 250px;" src=@($"{currProduct.ImageUrl}") />
+            <img style="width: 250px;opacity: 0.3" src=@($"{currProduct.ImageUrl}") />
             <div class="k-card-body">
                 <h4 class="k-card-title">@currProduct.ProductName</h4>
                 <h5 class="k-card-subtitle">@string.Format("{0:0.00}", currProduct.UnitPrice) lv.</h5>
@@ -38,46 +38,45 @@
 
 <style>
     .k-listview-header,
-.k-listview-content {
-    padding: 20px;
-}
+    .k-listview-content {
+        padding: 20px;
+    }
 
-.k-listview-footer {
-    border-width: 0;
-    padding: 10px 20px;
-}
+    .k-listview-footer {
+        border-width: 0;
+        padding: 10px 20px;
+    }
 
-.k-listview-content {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, 180px);
-    gap: 30px 20px;
-}
+    .k-listview-content {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, 180px);
+        gap: 30px 20px;
+    }
 
-.k-card {
-    border: 0;
-    border-radius: 0;
-    box-shadow: none;
-}
+    .k-card {
+        border: 0;
+        border-radius: 0;
+        box-shadow: none;
+    }
 
-.k-card-body {
-    padding: 10px 0;
-}
+    .k-card-body {
+        padding: 10px 0;
+    }
 
-.k-card .k-card-title {
-    padding: 0;
-    font-size: 1em;
-    font-weight: bold;
-    line-height: normal;
-}
+    .k-card .k-card-title {
+        padding: 0;
+        font-size: 1em;
+        font-weight: bold;
+        line-height: normal;
+    }
 
-.k-card-subtitle {
-    font-size: 0.85em;
-}
+    .k-card-subtitle {
+        font-size: 0.85em;
+    }
 
-.footer-note {
-    text-align: right;
-    font-style: italic;
-    font-size: 0.85em;
-}
-
+    .footer-note {
+        text-align: right;
+        font-style: italic;
+        font-size: 0.85em;
+    }
 </style>

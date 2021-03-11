@@ -10,7 +10,7 @@
     @if (currProduct.UnitInStock == 0)
     {
         <div class="k-card" style="display: inline-block;padding: 7px;">
-            <img style="width: 250px;" src=@($"{currProduct.ImageUrl}") />
+            <img style="width: 250px;opacity: 0.3" src=@($"{currProduct.ImageUrl}") />
             <div class="k-card-body">
                 <h4 class="k-card-title">@currProduct.ProductName</h4>
                 <h5 class="k-card-subtitle">@string.Format("{0:0.00}", currProduct.UnitPrice) lv.</h5>

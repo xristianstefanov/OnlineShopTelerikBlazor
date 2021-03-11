@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ETlm4RJd4cYUaUkba7ScLI0XlozdegKLS5ikCpEDshYIdAAGwzgMCLf09OlL/pQaaHjBQOiiuTq+Roxx4vXlEA==",
+  "dgSpecHash": "8oTl3WH8ZLNit5h4QfB/cwRpMZB3QZJ1ByN3Hiz07WTIWgxTRNTyXOWrWJytDyLuLr377dDwvcyWAl2FaQWbDg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\xrist\\source\\repos\\OnlineShopTelerikBlazor\\OnlineShopTelerikBlazor.csproj",
+  "projectFilePath": "C:\\Users\\xrist\\source\\repos\\OnlineShopTelerikBlazorPro\\OnlineShopTelerikBlazor\\OnlineShopTelerikBlazor.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\xrist\\.nuget\\packages\\microsoft.aspnetcore.authorization\\3.1.6\\microsoft.aspnetcore.authorization.3.1.6.nupkg.sha512",
     "C:\\Users\\xrist\\.nuget\\packages\\microsoft.aspnetcore.components\\3.1.6\\microsoft.aspnetcore.components.3.1.6.nupkg.sha512",

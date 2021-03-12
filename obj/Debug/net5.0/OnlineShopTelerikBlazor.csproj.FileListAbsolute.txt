@@ -93,7 +93,6 @@ C:\Users\xrist\source\repos\OnlineShopTelerikBlazorPro\OnlineShopTelerikBlazor\o
 C:\Users\xrist\source\repos\OnlineShopTelerikBlazorPro\OnlineShopTelerikBlazor\obj\Debug\net5.0\OnlineShopTelerikBlazor.RazorComponent.input.cache
 C:\Users\xrist\source\repos\OnlineShopTelerikBlazorPro\OnlineShopTelerikBlazor\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
 C:\Users\xrist\source\repos\OnlineShopTelerikBlazorPro\OnlineShopTelerikBlazor\obj\Debug\net5.0\RazorDeclaration\Pages\Index.razor.g.cs
-C:\Users\xrist\source\repos\OnlineShopTelerikBlazorPro\OnlineShopTelerikBlazor\obj\Debug\net5.0\RazorDeclaration\Pages\Kids.razor.g.cs
 C:\Users\xrist\source\repos\OnlineShopTelerikBlazorPro\OnlineShopTelerikBlazor\obj\Debug\net5.0\RazorDeclaration\Pages\Men.razor.g.cs
 C:\Users\xrist\source\repos\OnlineShopTelerikBlazorPro\OnlineShopTelerikBlazor\obj\Debug\net5.0\RazorDeclaration\Pages\Women.razor.g.cs
 C:\Users\xrist\source\repos\OnlineShopTelerikBlazorPro\OnlineShopTelerikBlazor\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
@@ -107,7 +106,6 @@ C:\Users\xrist\source\repos\OnlineShopTelerikBlazorPro\OnlineShopTelerikBlazor\o
 C:\Users\xrist\source\repos\OnlineShopTelerikBlazorPro\OnlineShopTelerikBlazor\obj\Debug\net5.0\OnlineShopTelerikBlazor.RazorCoreGenerate.cache
 C:\Users\xrist\source\repos\OnlineShopTelerikBlazorPro\OnlineShopTelerikBlazor\obj\Debug\net5.0\Razor\App.razor.g.cs
 C:\Users\xrist\source\repos\OnlineShopTelerikBlazorPro\OnlineShopTelerikBlazor\obj\Debug\net5.0\Razor\Pages\Index.razor.g.cs
-C:\Users\xrist\source\repos\OnlineShopTelerikBlazorPro\OnlineShopTelerikBlazor\obj\Debug\net5.0\Razor\Pages\Kids.razor.g.cs
 C:\Users\xrist\source\repos\OnlineShopTelerikBlazorPro\OnlineShopTelerikBlazor\obj\Debug\net5.0\Razor\Pages\Men.razor.g.cs
 C:\Users\xrist\source\repos\OnlineShopTelerikBlazorPro\OnlineShopTelerikBlazor\obj\Debug\net5.0\Razor\Pages\Women.razor.g.cs
 C:\Users\xrist\source\repos\OnlineShopTelerikBlazorPro\OnlineShopTelerikBlazor\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
@@ -128,3 +126,5 @@ C:\Users\xrist\source\repos\OnlineShopTelerikBlazorPro\OnlineShopTelerikBlazor\o
 C:\Users\xrist\source\repos\OnlineShopTelerikBlazorPro\OnlineShopTelerikBlazor\obj\Debug\net5.0\ref\OnlineShopTelerikBlazor.dll
 C:\Users\xrist\source\repos\OnlineShopTelerikBlazorPro\OnlineShopTelerikBlazor\obj\Debug\net5.0\OnlineShopTelerikBlazor.pdb
 C:\Users\xrist\source\repos\OnlineShopTelerikBlazorPro\OnlineShopTelerikBlazor\obj\Debug\net5.0\OnlineShopTelerikBlazor.genruntimeconfig.cache
+C:\Users\xrist\source\repos\OnlineShopTelerikBlazorPro\OnlineShopTelerikBlazor\obj\Debug\net5.0\RazorDeclaration\Pages\Kids.razor.g.cs
+C:\Users\xrist\source\repos\OnlineShopTelerikBlazorPro\OnlineShopTelerikBlazor\obj\Debug\net5.0\Razor\Pages\Kids.razor.g.cs
